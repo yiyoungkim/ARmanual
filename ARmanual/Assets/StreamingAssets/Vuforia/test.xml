@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="qrcode" size="100.000000 100.000000" />
+    <ImageTarget name="WIN_20220920_15_36_06_Pro" size="100.000000 56.250000" />
+  </Tracking>
+</QCARConfig>
